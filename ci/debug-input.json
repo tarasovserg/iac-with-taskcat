@@ -41,10 +41,10 @@
     },
     {
         "ParameterKey":"LocalOverrideTest",
-        "ParameterValue":"override"
+        "ParameterValue":"hello"
     },
     {
         "ParameterKey":"GlobalOverrideTest",
-        "ParameterValue":"override"
+        "ParameterValue":"world"
     }
 ]
